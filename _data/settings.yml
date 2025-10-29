@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
-title: Norlin
+title: AzaelSec
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Norlin – A Beautiful Dark Blog Theme for Jekyll.
+description: AzaelSec
 
 
 #-------------------------------
@@ -29,8 +29,8 @@ author:
 #-------------------------------
 # Hero Settings
 hero:
-  title: Azael
-  description: Thoughts, stories and ideas.
+  title: AzaelSec
+  description: Beyond the Exploit.
   image: '/images/01.jpg'
 
 
