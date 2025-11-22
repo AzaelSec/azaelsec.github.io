@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  El Proceso Más Crítico y Menos Visible de la Seguridad Bancaria (ATM - HSM - HOST)
+title:  El proceso más critico y silencioso de la criptografía bancaria. 
 description: De Cero a Cifrado, el Establecimiento Asimétrico de Confianza entre el HSM y el EPP
 date:   2024-04-21 15:01:35 +0300
 image:  '/images/20.jpg'
